@@ -1,0 +1,24 @@
+{
+  "name": "asciiartify",
+  "version": "1.0.0",
+  "description": "NPM package that uses ASCII characters to form an art.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vipin675/asciiartify.git"
+  },
+  "keywords": [
+    "asciiartify",
+    "ascii",
+    "art"
+  ],
+  "author": "Vipin Vishwakarma (vipin-dev.vercel.app)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Vipin675/asciiartify/issues"
+  },
+  "homepage": "https://github.com/Vipin675/asciiartify#readme"
+}
